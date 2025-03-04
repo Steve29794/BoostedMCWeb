@@ -11,7 +11,7 @@ export default defineThemeConfig({
   appearance: true,  // 配置 深色模式
 
   social: [
-    { icon: 'github', link: 'https://github.com/MCBoosted/BoostedMCWeb' },
+    { icon: 'github', link: 'https://github.com/Steve29794/BoostedMCWeb' },
     { icon: 'qq', link: 'https://qm.qq.com/q/fga12c53tS' }
   ],
   navbarSocialInclude: ['github', 'qq'], // 允许显示在导航栏的 social 社交链接
