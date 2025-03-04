@@ -6,7 +6,7 @@ import { chineseNotes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'public/logo.svg',
+  logo: 'logo.svg',
 
   appearance: true,  // 配置 深色模式
 
@@ -47,7 +47,7 @@ export default defineThemeConfig({
        * @see https://theme-plume.vuejs.press/config/basic/#profile
        */
       profile: {
-        avatar: 'public/avatar.svg',
+        avatar: 'avatar.svg',
         name: 'BoostedMC',
         description: 'BoostedMC 官方网站',
         // circle: true,
